@@ -1,4 +1,1 @@
-let a = 2;
-let b = 5;
-let c = a * b;
-alert(c);
+console.log("Hello World from your main file!");
